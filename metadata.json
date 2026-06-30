@@ -1,0 +1,6 @@
+{
+  "name": "Brilliant Study",
+  "description": "A gamified AI-powered study companion featuring spaced-repetition flashcards, High-Thinking exams, video & image analysis, an AI Professor with Text-to-Speech, personalized schedules, and Maps search for study spots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
